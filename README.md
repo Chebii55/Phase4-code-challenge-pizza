@@ -2,17 +2,10 @@
 
 The Pizza Restaurant App is a full-stack web application designed to manage and showcase information about various pizza restaurants. It provides users with the ability to view details about different restaurants, explore their pizza offerings, and perform actions such as creating new pizzas and deleting entire restaurants.
 
-Now, run your Procfile with Honcho:
+Now, run with Honcho:
 
 ```console
-$ pipenv install honcho
-
-npm install react-bootstrap
-
-npm install react-router-dom
-
-
-$ honcho start -f Procfile.dev
+ honcho start -f Procfile.dev
 ```
 ## Features
 
