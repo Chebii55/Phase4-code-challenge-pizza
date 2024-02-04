@@ -7,6 +7,11 @@ Now, run your Procfile with Honcho:
 ```console
 $ pipenv install honcho
 
+npm install react-bootstrap
+
+npm install react-router-dom
+
+
 $ honcho start -f Procfile.dev
 ```
 ## Features
