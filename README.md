@@ -82,7 +82,3 @@ For more detailed API documentation, refer to the [API documentation](./API.md).
 ## Contributing
 
 Contributions to the project are welcome! Users can open issues for bug reports or new features and submit pull requests for proposed changes.
-
-## License
-
-The Pizza Restaurant App is licensed under the [MIT License](LICENSE).
