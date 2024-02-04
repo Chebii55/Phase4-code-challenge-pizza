@@ -72,6 +72,7 @@ The project is organized into frontend and backend directories.
 The application's backend provides various API endpoints, allowing seamless communication between the frontend and backend. The key endpoints include:
 
 - **GET /restaurants:** Retrieve a list of all restaurants.
+- **GET /pizzas:** Retrieve a list of all pizza.
 - **GET /restaurants/:id:** Get details of a specific restaurant.
 - **POST /restaurant_pizzas:** Create a new pizza for a restaurant.
 - **DELETE /restaurants/:id:** Delete a restaurant.
